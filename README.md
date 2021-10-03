@@ -51,7 +51,7 @@
 <a href="https://www.facebook.com/M.H.OPI175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="M.H.OPI175" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maherab_hossen_opi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maherab_hossen_opi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/MHOPI" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="MHOPI" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/mhopi175" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="mhopi175" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/mhopi175" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.81x7JTaIvRx-Vv9VtW6tvQHaD4?pid=ImgDet&rs=1" alt="mhopi175" height="30" width="40" /></a>
 </p>
 
 </p>
