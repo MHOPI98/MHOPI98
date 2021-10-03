@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MHOPI98)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MHOPI98?tab=repositories)**
 
 - 📫 How to reach me **bdmhopi@gmail.com**
 
