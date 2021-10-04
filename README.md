@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maherab Hossen Opi</h1>
 
-Skills: JAVA / C++/C
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning JAVA 
 - 📫 How to reach me: bdmhopi@gmail.com 
+  Skills: JAVA / C++/C.
 ## 📊 My Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) 
