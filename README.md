@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Maherab Hossen Opi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MHOPI98&theme=react-dark" /></a>
+<a href="https://github.com/MHOPI98/github-readme-activity-graph"><img alt="Maherab Hossen Opi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MHOPI98&theme=react-dark" /></a>
 
 <br/>
 <br/>
