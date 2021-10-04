@@ -22,3 +22,4 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/MHOPI98)  
+<a href="https://github.com/MHOPI98?tab=followers"><img src="https://img.shields.io/github/followers/MHOPI98?label=Followers&style=social" alt="GitHub Badge"></a>
