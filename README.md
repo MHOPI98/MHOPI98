@@ -15,16 +15,14 @@
 
 ## 📊 My Github Stats
 
-
   <br/>
     <a href="https://github.com/MHOPI98/github-readme-stats"><img alt="Maherab Hossen Opi Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MHOPI98/github-readme-stats"><img alt="Maherab Hossen Opi Top Languages" src="https://github-readme-stats.vercel.app/api?username=MHOPI98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MHOPI98/github-readme-stats"><img alt="Maherab Hossen Opi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHOPI98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHOPI98)](https://github.com/MHOPI98/github-readme-stats)
 <br/>
 
 <a href="https://github.com/MHOPI98/github-readme-activity-graph"><img alt="Maherab Hossen Opi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MHOPI98&theme=react-dark" /></a>
@@ -49,6 +47,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/MHOPI98/github-profile-views-counter">
-    <img src="ttps://gpvc.arturio.dev/MHOPI98">
+    <img src="https://komarev.com/ghpvc/?username=MHOPI98">
 </a>
 <a href="https://github.com/MHOPI98?tab=followers"><img src="https://img.shields.io/github/followers/MHOPI98?label=Followers&style=social" alt="GitHub Badge"></a>
