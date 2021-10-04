@@ -46,7 +46,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/MHOPI98/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MHOPI98">
 </a>
 <a href="https://github.com/MHOPI98?tab=followers"><img src="https://img.shields.io/github/followers/MHOPI98?label=Followers&style=social" alt="GitHub Badge"></a>
