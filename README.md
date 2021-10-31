@@ -1,5 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://thumbs.dreamstime.com/b/little-boy-headphones-playing-games-computer-sitting-table-home-room-child-enjoying-online-learning-gaming-technology-188128129.jpg" height="100px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maherab Hossen Opi</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Maherab+Hossen+Opi;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 ## 🙋‍♂️ About Me
