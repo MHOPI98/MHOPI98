@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning WEB 
 - 📫 How to reach me: bdmhopi@gmail.com 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/MHOPI98?tab=repositories)**
 -  Skills: JAVA / C++/C.
