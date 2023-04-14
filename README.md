@@ -24,7 +24,7 @@
 
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHOPI98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maherab-hossen-opi-105b82202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/M.H.OPI175)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maherab_hossen_opi/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/mhopi175)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/MHOPI)  [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/StopStalk.svg' alt='stopstalk' height='40'>](https://www.stopstalk.com/user/profile/mhopi98)
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stopstalk.svg' alt='stopstalk' height='40'>](https://www.stopstalk.com/user/profile/mhopi98)
 
 
 ![Profile views](https://gpvc.arturio.dev/MHOPI98)  
