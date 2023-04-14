@@ -18,7 +18,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/MHOPI98/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
+![GitHub Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MHOPI98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
